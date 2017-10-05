@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaotic rumblings</title>
-    <description>ShawkyZ Rumblings Blog</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2017 22:31:33 +0200</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2017 22:31:33 +0200</lastBuildDate>
+    <description>ShawkyZ Rumblings</description>
+    <link>https://rumblings.shawkyz.info/</link>
+    <atom:link href="https://rumblings.shawkyz.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Oct 2017 23:09:40 +0200</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2017 23:09:40 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 May 2017 18:09:47 +0200</pubDate>
-        <link>http://localhost:4000/posts/ConnectBotWithRaspberryPi/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/ConnectBotWithRaspberryPi/</guid>
+        <link>https://rumblings.shawkyz.info/posts/ConnectBotWithRaspberryPi/</link>
+        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/ConnectBotWithRaspberryPi/</guid>
         
         <category>.Net</category>
         
@@ -47,8 +47,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 18:09:47 +0200</pubDate>
-        <link>http://localhost:4000/posts/MultiThreadingTesting/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/MultiThreadingTesting/</guid>
+        <link>https://rumblings.shawkyz.info/posts/MultiThreadingTesting/</link>
+        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/MultiThreadingTesting/</guid>
         
         <category>.Net</category>
         
@@ -74,8 +74,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Apr 2017 18:09:47 +0200</pubDate>
-        <link>http://localhost:4000/posts/BotFramework3/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/BotFramework3/</guid>
+        <link>https://rumblings.shawkyz.info/posts/BotFramework3/</link>
+        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/BotFramework3/</guid>
         
         <category>.Net</category>
         
@@ -94,14 +94,14 @@
 الفكرة اني بجيب ال Url و بجرب اعمله decode ب punycode js library. لو النتيجة اللي طلعت ف الاخر كانت غير ال URL الحالي تبقى دي ممكن تكون فعلا phishing و بتظهر رسالة ف اول الصفحة تقول ده.
 &lt;br /&gt;
 شكل الرسالة
-&lt;img src=&quot;http://localhost:4000/assets/images/unsafe.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://rumblings.shawkyz.info/assets/images/unsafe.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ال extension و ال source code و شرح التحميل 
 &lt;a href=&quot;https://github.com/ShawkyZ/PunycodePhishingChecker&quot;&gt;https://github.com/ShawkyZ/PunycodePhishingChecker&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Apr 2017 18:09:47 +0200</pubDate>
-        <link>http://localhost:4000/posts/PunnycodePhishingChecker/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/PunnycodePhishingChecker/</guid>
+        <link>https://rumblings.shawkyz.info/posts/PunnycodePhishingChecker/</link>
+        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/PunnycodePhishingChecker/</guid>
         
         <category>Phishing</category>
         
@@ -131,8 +131,8 @@ Should I wear a jacket tomorrow in London?
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Apr 2017 18:09:47 +0200</pubDate>
-        <link>http://localhost:4000/posts/BotFramework2/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/BotFramework2/</guid>
+        <link>https://rumblings.shawkyz.info/posts/BotFramework2/</link>
+        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/BotFramework2/</guid>
         
         <category>.Net</category>
         
