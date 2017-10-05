@@ -3,142 +3,50 @@
   <channel>
     <title>Chaotic rumblings</title>
     <description>ShawkyZ Rumblings</description>
-    <link>https://rumblings.shawkyz.info/</link>
-    <atom:link href="https://rumblings.shawkyz.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2017 23:09:40 +0200</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2017 23:09:40 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Oct 2017 23:34:39 +0200</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2017 23:34:39 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Connecting a bot with RaspberryPi running Windows IoT Core.</title>
-        <description>&lt;p&gt;في الفيديو ده بشرح ازاي تربط ال Raspberry Pi بـ Bot معمول بـ Microsoft Bot Framework عشان يبدا يفهم امر معين من ال user زي مثلا “Turn the yellow led on”.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+        <title>تعالى اعلمك يعني ايه اكتئاب</title>
+        <description>&lt;p&gt;بتوجع ان محدش فاهمك، ولا حتى انت، انت مش فاهم نفسك ولا فاهم انت عايز ايه ولا حاسس كده ليه.
+هفضل حاسس بالوجع ده على طول؟ و هو موجود ليه من الأساس؟ مش عارف.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FShawkyz1%2Fvideos%2F10210678421969465%2F&amp;amp;width=800&amp;amp;show_text=false&amp;amp;appId=312241548925621&amp;amp;height=350&quot; width=&quot;800&quot; height=&quot;350&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;ولا حتى ينفع تحكي لحد، متأكد انه هيفهم قصدك ايه؟ مش عايز حد يقولي اخرج من اللي انت فيه او حاول تستمع بحياتك عشان اكيد جربت ده.
+مبقتش احس بأي حاجة&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;سلسلة الأفكار اللي بتيجي ف دماغي مبعرفش أوقفها، ممكن اتحكم فيها ف أولها، اه بكون عارف اللي هيحصل، بس عاملة زي لما تكون عايز تعيط، ممكن تقف بس برضه عايز تسيب نفسك تعيط.&lt;/p&gt;
+
+&lt;p&gt;بس انا مبقدرش أعيط، خالص…&lt;/p&gt;
+
+&lt;p&gt;عايز أبعد عن كل الناس، في نفس الوقت مش عايز اكون لوحدي.
+بعدت عن كل اللي اعرفهم، كلهم اتغيروا، و انا اتغيرت.&lt;/p&gt;
+
+&lt;p&gt;بتوجع لما حتى اللي كنت قريب منهم مبقتش عارف تتكلم معاهم.
+مش عايز أحكي لحد، عشان محدش هيفهم، بس عايز حد يفهمني.&lt;/p&gt;
+
+&lt;p&gt;محدش فينا عايز يموت، بس تعمل ايه لو الموت هو الحل الوحيد؟
+مش قادر استحمل الوجع ده، حاولت و بحاول بس انا تعبت
+عايز اعيط بس مش عارف
+عايز اصرخ بصوت عالي بس مش عارف
+عايز اموت بس مش عارف&lt;/p&gt;
+
+&lt;p&gt;بقيت فاضي من جوايا، مفيش غير الضغط اللي على صدري، مبعرفش اتنفس منه أحيانًا.
+نفسي و ضربات قلبي بيزيدوا، ايديا بتبدا تعرق و رجلي تبدا تترعش.&lt;/p&gt;
+
+&lt;p&gt;عارف انها Panic Attack و عارف، بتيجي ف أي وقت و بتروح ف أي وقت.
+ممكن أوقفها، بس مش عايز، مش قادر أعيط، هي دي الحاجة اللي هتريحني، ممكن.&lt;/p&gt;
+
+&lt;p&gt;عايز أصرخ، عايز أعيط، عايز حد يهديني… بس مفيش حد.&lt;/p&gt;
+
+&lt;p&gt;لوحدي زي ما كنت و هكون دايمًا.&lt;/p&gt;
+
 </description>
-        <pubDate>Sat, 06 May 2017 18:09:47 +0200</pubDate>
-        <link>https://rumblings.shawkyz.info/posts/ConnectBotWithRaspberryPi/</link>
-        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/ConnectBotWithRaspberryPi/</guid>
-        
-        <category>.Net</category>
-        
-        <category>BotFramework</category>
-        
-        <category>RaspberryPi</category>
-        
-        <category>LUIS</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Writing Multithreaded test to reproduce SQL Deadlocks.</title>
-        <description>&lt;p&gt;في الفيديو ده بشرح ازاي تكتب Multi threaded Test نقدر من خلاله نـ reproduce ال SQL Deadlocks
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FShawkyz1%2Fvideos%2F10210615964568069%2F&amp;amp;width=800&amp;amp;show_text=false&amp;amp;appId=312241548925621&amp;amp;height=350&quot; width=&quot;800&quot; height=&quot;350&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Apr 2017 18:09:47 +0200</pubDate>
-        <link>https://rumblings.shawkyz.info/posts/MultiThreadingTesting/</link>
-        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/MultiThreadingTesting/</guid>
-        
-        <category>.Net</category>
-        
-        <category>SQL</category>
-        
-        <category>Testing</category>
-        
-        <category>Deadlocks</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Creating a feedback form for the Weather Bot and connecting it with Facebook and Telegram.</title>
-        <description>&lt;p&gt;في الفيديو ده بشرح ازاي تبني للـ Weather Bot زي Feedback dialog، و ازاي تربطه بـ Facebook و Telegram.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FShawkyz1%2Fvideos%2F10210552804349103%2F&amp;amp;width=800&amp;amp;show_text=false&amp;amp;appId=312241548925621&amp;amp;height=350&quot; width=&quot;800&quot; height=&quot;350&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Apr 2017 18:09:47 +0200</pubDate>
-        <link>https://rumblings.shawkyz.info/posts/BotFramework3/</link>
-        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/BotFramework3/</guid>
-        
-        <category>.Net</category>
-        
-        <category>C#</category>
-        
-        <category>Bot</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Punnycode Phishing Checker</title>
-        <description>&lt;p&gt;دي chrome extension بسيطة كتبتها بتعرف اذا كان ال website ده مستخدم ال Punycode phishing technique ولا لا.
-الفكرة اني بجيب ال Url و بجرب اعمله decode ب punycode js library. لو النتيجة اللي طلعت ف الاخر كانت غير ال URL الحالي تبقى دي ممكن تكون فعلا phishing و بتظهر رسالة ف اول الصفحة تقول ده.
-&lt;br /&gt;
-شكل الرسالة
-&lt;img src=&quot;https://rumblings.shawkyz.info/assets/images/unsafe.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ال extension و ال source code و شرح التحميل 
-&lt;a href=&quot;https://github.com/ShawkyZ/PunycodePhishingChecker&quot;&gt;https://github.com/ShawkyZ/PunycodePhishingChecker&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Apr 2017 18:09:47 +0200</pubDate>
-        <link>https://rumblings.shawkyz.info/posts/PunnycodePhishingChecker/</link>
-        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/PunnycodePhishingChecker/</guid>
-        
-        <category>Phishing</category>
-        
-        <category>Security</category>
-        
-        <category>ChromeExtension</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Building A Weather Bot Using LUIS and MS BotFramework</title>
-        <description>&lt;p&gt;في الفيديو ده بشرح ازاي تبني Weather Bot باستخدام ال Microsoft Bot Framework و Microsoft Cognitive Services, LUIS AI عشان تبدا انها تحلل ال User Queries و نعرف نتعامل معاها.&lt;/p&gt;
-
-&lt;p&gt;الbot اللي هيتعمل في الاخر بياخد queries من ال user كاسالة عن الجو بصورة مباشرة و غير مباشرة ، مثال :
-&lt;br /&gt;
-How is the weather like in Cairo?
-&lt;br /&gt;
-Should I wear a jacket tomorrow in London?
-&lt;br /&gt;
-و يبدا يفهم القصد منها و يحللها و يرد على الuser.
-&lt;br /&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FShawkyz1%2Fvideos%2F10210474526432204%2F&amp;amp;width=800&amp;amp;show_text=false&amp;amp;appId=312241548925621&amp;amp;height=350&quot; width=&quot;800&quot; height=&quot;350&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 14 Apr 2017 18:09:47 +0200</pubDate>
-        <link>https://rumblings.shawkyz.info/posts/BotFramework2/</link>
-        <guid isPermaLink="true">https://rumblings.shawkyz.info/posts/BotFramework2/</guid>
-        
-        <category>.Net</category>
-        
-        <category>C#</category>
-        
-        <category>Bot</category>
+        <pubDate>Mon, 05 Oct 2015 18:09:47 +0200</pubDate>
+        <link>http://localhost:4000/posts/my_depression/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/my_depression/</guid>
         
         
         <category>posts</category>
