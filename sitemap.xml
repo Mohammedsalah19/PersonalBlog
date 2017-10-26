@@ -3,6 +3,15 @@
 
   
   <url>
+    <loc>https://ramblings.shawkyz.info/posts/lets_talk/</loc>
+    
+      <lastmod>2017-10-26</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://ramblings.shawkyz.info/posts/depression_misery/</loc>
     
       <lastmod>2017-10-20</lastmod>
